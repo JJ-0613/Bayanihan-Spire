@@ -1,0 +1,44 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1757239507
+Deck.gd::GDScript/GDScript::1191100278042028508::1757236257::0::1::::<>Node2D<><>0<>0<><>::
+icon.svg::CompressedTexture2D/CompressedTexture2D::7543902888123481142::1757236257::1757236610::1::::<><><>0<>0<>a493c90d5ca90f56bde23b924c941088<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Main.gd::GDScript/GDScript::5698807096778689322::1757236257::0::1::::<>Node2D<><>0<>0<><>::
+Main.tscn::PackedScene::3502046707956488532::1757238672::0::1::::<><><>0<>0<><>::uid://c4o2t6rqvyetu::::res://Assets/forest.png<>uid://cngsrxo872rha::::res://Main.gd<>uid://dtgob0cxyu41g::::res://Scripts/CardManager.gd<>uid://d1gs7uwfydqtl::::res://Scenes/CardSlot.tscn<>uid://q78iof85rl4o::::res://Deck.gd<>uid://c8rum7av4se0o::::res://Scripts/PlayerHand.gd<>uid://hrlflh3v4b02::::res://Assets/Cards/Deck.png<>uid://b10yvexdw8vk7::::res://Scripts/InputManager.gd<>uid://dia0m8dqst5fq::::res://Assets/Yellow.png<>uid://bq8pj65le0o1v::::res://Assets/Blue.png<>uid://bcip4r81tmqkt::::res://Assets/Character.png<>uid://bjtrhserhbxtv::::res://Assets/Entities/brownieatk.png<>uid://d14gr3mh1lc6c::::res://Assets/Entities/brownieded.png<>uid://3eep0c25gu5j::::res://Assets/Entities/browniedef.png<>uid://b6yps3qdedqvt::::res://Assets/Entities/browniehurt.png<>uid://bfch56yi0h18r::::res://Assets/Entities/brownieidle.png<>uid://cf272pbxig182::::res://Assets/buttonLong_beige.png<>uid://bw4ebs0r83h8l::::res://Assets/buttonLong_beige_pressed.png
+Timer.gd::GDScript/GDScript::244713160735679266::1757236257::0::1::::<>RefCounted<><>0<>0<><>::
+::res://Assets/::1757236610
+Blue.png::CompressedTexture2D/CompressedTexture2D::3578495149896354473::1757236257::1757236610::1::::<><><>0<>0<>287deb8c7fa64e6072034bc7fd2e9548<>res://.godot/imported/Blue.png-7d44080c477d302cd4d04cf4d7e48fd0.ctex::
+buttonLong_beige.png::CompressedTexture2D/CompressedTexture2D::5181515735590966069::1757236257::1757236610::1::::<><><>0<>0<>88c9405fee3ae0a09249a1066b692fcf<>res://.godot/imported/buttonLong_beige.png-a4f3b9a4c18b53aead0f8b0e236990af.ctex::
+buttonLong_beige_pressed.png::CompressedTexture2D/CompressedTexture2D::3990687837220541785::1757236257::1757236610::1::::<><><>0<>0<>102cf0404e436448c08a54a21ac32fc3<>res://.godot/imported/buttonLong_beige_pressed.png-2d7336449f609d4b0b3da48d79cb363e.ctex::
+Character.png::CompressedTexture2D/CompressedTexture2D::2544276880999083063::1757236257::1757236610::1::::<><><>0<>0<>a34e9bf84ef2417d76503eef8802f9ae<>res://.godot/imported/Character.png-f98bfd4a519deb39a93cee80b0823610.ctex::
+forest.png::CompressedTexture2D/CompressedTexture2D::6838894065576373626::1757236257::1757236610::1::::<><><>0<>0<>5184b769aaf06f2a1b556b939db29d73<>res://.godot/imported/forest.png-2b495563828e28fc3cad4f55cfac6c05.ctex::
+Yellow.png::CompressedTexture2D/CompressedTexture2D::7722313893186353066::1757236257::1757236610::1::::<><><>0<>0<>ace2cf11bef6fb74462d94ee83098ccb<>res://.godot/imported/Yellow.png-75bc20b052908a3e549c2d0229e1066c.ctex::
+::res://Assets/Cards/::1757236620
+AksyonCards.png::CompressedTexture2D/CompressedTexture2D::4694186330533553144::1757236257::1757236610::1::::<><><>0<>0<>3fc04702edfb52f73d27e5728d51fa2f<>res://.godot/imported/AksyonCards.png-58139962648377d08cd582c591ba983e.ctex::
+CardSlot.png::CompressedTexture2D/CompressedTexture2D::5273336078341465968::1757236257::1757236610::1::::<><><>0<>0<>c770367a2591212f3bea33e370cc9516<>res://.godot/imported/CardSlot.png-d3aff704e4faf124c324e665a2edc8c7.ctex::
+Collective Effort.png::CompressedTexture2D/CompressedTexture2D::6808891747420536043::1757236257::1757236620::1::::<><><>0<>0<>8f7a81045abea5a3279d0388686c3c39<>res://.godot/imported/Collective Effort.png-7409b7c9c46308264a56458089133d95.ctex::
+Deck.png::CompressedTexture2D/CompressedTexture2D::527093733047077737::1757236257::1757236610::1::::<><><>0<>0<>03805562c6d1f0779e361e11470acd31<>res://.godot/imported/Deck.png-32227b7dcc4504942bd303d0b1e8683d.ctex::
+Divine Shield.png::CompressedTexture2D/CompressedTexture2D::5874110933060678712::1757236257::1757236619::1::::<><><>0<>0<>52a147662a36e02b1839acbf69c6bf40<>res://.godot/imported/Divine Shield.png-fa31f4900993ae86a28b684d41ac323d.ctex::
+Evacuation Order.png::CompressedTexture2D/CompressedTexture2D::6162773149373522192::1757236257::1757236620::1::::<><><>0<>0<>b34001484a0766beb2fe65371f7e4ef1<>res://.godot/imported/Evacuation Order.png-27679c11d61d4702783242092cb407e7.ctex::
+Gabay.png::CompressedTexture2D/CompressedTexture2D::990380136194137779::1757236257::1757236610::1::::<><><>0<>0<>bc8ac79d2d65307f7a1f79cec9bb2e16<>res://.godot/imported/Gabay.png-5fd7cb9c741d9a77aab939a1585c9735.ctex::
+Kaalaman.png::CompressedTexture2D/CompressedTexture2D::7018328905194321858::1757236257::1757236610::1::::<><><>0<>0<>dd3b649d66c69221fccbbe8b6ef18a3b<>res://.godot/imported/Kaalaman.png-2b984a75267cfd298acda559444c5d01.ctex::
+People Resolve.png::CompressedTexture2D/CompressedTexture2D::965360483550615821::1757236257::1757236614::1::::<><><>0<>0<>6aedba4b5733a82e9a1a11cf434239b3<>res://.godot/imported/People Resolve.png-b126c2c19717882bbb68d421519e364f.ctex::
+Sagip-Bahay.png::CompressedTexture2D/CompressedTexture2D::4383560202952411580::1757236257::1757236620::1::::<><><>0<>0<>f4e63a76bff295f6bd235d780ab55f4d<>res://.godot/imported/Sagip-Bahay.png-5db510a9ce9b8f23bbe741b94f3087f9.ctex::
+Scry.png::CompressedTexture2D/CompressedTexture2D::6474183473526255313::1757236257::1757236619::1::::<><><>0<>0<>5d86166f942d20878d26db0c0ea427b9<>res://.godot/imported/Scry.png-491265ce4f6e8b28d6cf6597c515a3ed.ctex::
+Tulong.png::CompressedTexture2D/CompressedTexture2D::4337070861736001732::1757236257::1757236610::1::::<><><>0<>0<>502b1bfc531999942f933eb9c6225c5c<>res://.godot/imported/Tulong.png-203d2d82eec409cd6481273b525d0c4c.ctex::
+::res://Assets/Entities/::1757236610
+brownieatk.png::CompressedTexture2D/CompressedTexture2D::3058389095578235791::1757236257::1757236610::1::::<><><>0<>0<>dd18481750fe84a72f7c009e863d63f3<>res://.godot/imported/brownieatk.png-4724412b94c60f6a59e67cd3c9bab4e4.ctex::
+brownieded.png::CompressedTexture2D/CompressedTexture2D::9044435090533546112::1757236257::1757236610::1::::<><><>0<>0<>bf645975d8ebb7c68e27da81e213cf31<>res://.godot/imported/brownieded.png-64a77683f9066a4c30edfc85320d91e9.ctex::
+browniedef.png::CompressedTexture2D/CompressedTexture2D::1973816105201254085::1757236257::1757236610::1::::<><><>0<>0<>cbc0d37d19b1dd042eec4dae4b152d6e<>res://.godot/imported/browniedef.png-a2b0e449bd080ab27124a22f43213fba.ctex::
+browniehurt.png::CompressedTexture2D/CompressedTexture2D::4612764297263788117::1757236257::1757236610::1::::<><><>0<>0<>a8c76d79b082e8d4c312e1dc066333ca<>res://.godot/imported/browniehurt.png-6940399aeb406e446aab77148ea0a832.ctex::
+brownieidle.png::CompressedTexture2D/CompressedTexture2D::2741973915854253219::1757236257::1757236610::1::::<><><>0<>0<>b846a84b513bdff37e7a6111e61fa006<>res://.godot/imported/brownieidle.png-30a9e19ae2660bd0f803bfe77817b474.ctex::
+::res://Scenes/::1757236257
+Card.tscn::PackedScene/PackedScene::3788658830586809154::1757236257::0::1::::<><><>0<>0<><>::uid://ce1qhomka6vh::::res://Scripts/Card.gd<>uid://c4ajpm30m7p7p::::res://Assets/Cards/Collective Effort.png<>uid://bq8pj65le0o1v::::res://Assets/Blue.png
+CardSlot.tscn::PackedScene/PackedScene::8997709388179343113::1757236257::0::1::::<><><>0<>0<><>::uid://blbdvyj2h5uh1::::res://Scripts/CardSlot.gd<>uid://chepcsou2364k::::res://Assets/Cards/CardSlot.png
+Timer.tscn::PackedScene/PackedScene::4414323446735642143::1757236257::0::1::::<><><>0<>0<><>::uid://dqsni3y0wpiw::::res://Timer.gd<>uid://cf272pbxig182::::res://Assets/buttonLong_beige.png<>uid://bw4ebs0r83h8l::::res://Assets/buttonLong_beige_pressed.png
+::res://Scripts/::1757236257
+Card.gd::GDScript/GDScript::150242802656048109::1757236257::0::1::::<>Node2D<><>0<>0<><>::
+CardDatabase.gd::GDScript/GDScript::4255863352261633733::1757236257::0::1::::<>RefCounted<><>0<>0<><>::
+CardManager.gd::GDScript/GDScript::8506089487670182254::1757236257::0::1::::<>Node2D<><>0<>0<><>::
+CardSlot.gd::GDScript/GDScript::3160783269816775768::1757236257::0::1::::<>Node2D<><>0<>0<><>::
+InputManager.gd::GDScript/GDScript::4264435017422764880::1757236257::0::1::::<>Node2D<><>0<>0<><>::
+PlayerHand.gd::GDScript/GDScript::7125405080383290224::1757236257::0::1::::<>Node2D<><>0<>0<><>::
